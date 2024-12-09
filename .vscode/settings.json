@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Circus.sln"
+    "dotnet.defaultSolution": "Circus_unity.sln"
 }
